@@ -4,5 +4,5 @@ const quotes = [
     "The mystery of human existence lies not in just staying alive, but in finding something to live for.",
     "Beauty will save the world.",
 
-],
-    randomQuote = quotes[Math.floor(Math.random() * quotes.length)];
+];
+let randomQuote = quotes[Math.floor(Math.random() * quotes.length)];
